@@ -1,0 +1,14 @@
+C:\Users\Mariam Palacios\Desktop\examen programacion Palacios-Mariam\bin\Debug\net7.0\examen programacion Palacios-Mariam.exe
+C:\Users\Mariam Palacios\Desktop\examen programacion Palacios-Mariam\bin\Debug\net7.0\examen programacion Palacios-Mariam.deps.json
+C:\Users\Mariam Palacios\Desktop\examen programacion Palacios-Mariam\bin\Debug\net7.0\examen programacion Palacios-Mariam.runtimeconfig.json
+C:\Users\Mariam Palacios\Desktop\examen programacion Palacios-Mariam\bin\Debug\net7.0\examen programacion Palacios-Mariam.dll
+C:\Users\Mariam Palacios\Desktop\examen programacion Palacios-Mariam\bin\Debug\net7.0\examen programacion Palacios-Mariam.pdb
+C:\Users\Mariam Palacios\Desktop\examen programacion Palacios-Mariam\obj\Debug\net7.0\examen programacion Palacios-Mariam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mariam Palacios\Desktop\examen programacion Palacios-Mariam\obj\Debug\net7.0\examen programacion Palacios-Mariam.AssemblyInfoInputs.cache
+C:\Users\Mariam Palacios\Desktop\examen programacion Palacios-Mariam\obj\Debug\net7.0\examen programacion Palacios-Mariam.AssemblyInfo.cs
+C:\Users\Mariam Palacios\Desktop\examen programacion Palacios-Mariam\obj\Debug\net7.0\examen programacion Palacios-Mariam.csproj.CoreCompileInputs.cache
+C:\Users\Mariam Palacios\Desktop\examen programacion Palacios-Mariam\obj\Debug\net7.0\examen programacion Palacios-Mariam.dll
+C:\Users\Mariam Palacios\Desktop\examen programacion Palacios-Mariam\obj\Debug\net7.0\refint\examen programacion Palacios-Mariam.dll
+C:\Users\Mariam Palacios\Desktop\examen programacion Palacios-Mariam\obj\Debug\net7.0\examen programacion Palacios-Mariam.pdb
+C:\Users\Mariam Palacios\Desktop\examen programacion Palacios-Mariam\obj\Debug\net7.0\examen programacion Palacios-Mariam.genruntimeconfig.cache
+C:\Users\Mariam Palacios\Desktop\examen programacion Palacios-Mariam\obj\Debug\net7.0\ref\examen programacion Palacios-Mariam.dll
